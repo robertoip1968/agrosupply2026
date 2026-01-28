@@ -1,4 +1,5 @@
-import { Instagram, Phone, MapPin } from "lucide-react";
+import { Instagram, Phone } from "lucide-react";
+import logo from "@/assets/logo.png";
 
 const Footer = () => {
   return (
@@ -7,10 +8,8 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           {/* Logo */}
           <div className="text-center md:text-left">
-            <h3 className="font-display text-2xl font-bold text-foreground">
-              AGRO<span className="text-gradient">SUPPLY</span> SUMMIT
-            </h3>
-            <p className="text-sm text-muted-foreground mt-1">
+            <img src={logo} alt="Agro Supply Summit" className="h-12 md:h-14" />
+            <p className="text-sm text-muted-foreground mt-2">
               O maior evento da cadeia de suprimentos do agro
             </p>
           </div>
