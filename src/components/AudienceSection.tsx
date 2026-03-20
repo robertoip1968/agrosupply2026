@@ -1,28 +1,32 @@
-import { Briefcase, Package, Truck, Cpu, ShoppingCart } from "lucide-react";
+import audienceAgro from "@/assets/audience-agro.jpg";
+import audienceSupply from "@/assets/audience-supply.jpg";
+import audienceBuyers from "@/assets/audience-buyers.jpg";
+import audienceLogistics from "@/assets/audience-logistics.jpg";
+import audienceTech from "@/assets/audience-tech.jpg";
 
 const audienceTypes = [
   {
-    icon: Briefcase,
+    image: audienceAgro,
     title: "Empresários do Agro",
     description: "Líderes e proprietários de empresas do setor agrícola"
   },
   {
-    icon: Package,
+    image: audienceSupply,
     title: "Diretores e Gestores de Suprimentos",
     description: "Profissionais responsáveis pela cadeia de abastecimento"
   },
   {
-    icon: ShoppingCart,
+    image: audienceBuyers,
     title: "Representantes e Compradores",
     description: "Especialistas em negociação e aquisição"
   },
   {
-    icon: Truck,
+    image: audienceLogistics,
     title: "Especialistas em Logística",
     description: "Profissionais de transporte e cadeia de valor"
   },
   {
-    icon: Cpu,
+    image: audienceTech,
     title: "Profissionais de Tecnologia",
     description: "Inovadores e desenvolvedores de soluções para o agro"
   }
@@ -46,21 +50,26 @@ const AudienceSection = () => {
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
           {audienceTypes.map((type, index) => (
-            <div 
+            <div
               key={type.title}
-              className={`bg-background rounded-2xl p-6 border border-border hover:border-primary/50 transition-all duration-300 group ${
+              className={`relative rounded-2xl overflow-hidden border border-border hover:border-primary/50 transition-all duration-300 group min-h-[220px] ${
                 index === 4 ? 'md:col-span-2 lg:col-span-1 lg:col-start-2' : ''
               }`}
             >
-              <div className="w-14 h-14 rounded-2xl bg-gradient-primary flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
-                <type.icon className="w-7 h-7 text-primary-foreground" />
+              <img
+                src={type.image}
+                alt={type.title}
+                className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-black/10" />
+              <div className="relative z-10 flex flex-col justify-end h-full p-6">
+                <h3 className="font-display text-xl font-semibold text-white mb-2">
+                  {type.title}
+                </h3>
+                <p className="text-white/80 text-sm">
+                  {type.description}
+                </p>
               </div>
-              <h3 className="font-display text-xl font-semibold text-foreground mb-2">
-                {type.title}
-              </h3>
-              <p className="text-muted-foreground">
-                {type.description}
-              </p>
             </div>
           ))}
         </div>
