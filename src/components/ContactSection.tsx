@@ -70,7 +70,7 @@ const ContactSection = () => {
 
               {/* Quick CTA */}
               <a 
-                href="https://wa.me/5565999766669" 
+                href="https://wa.me/5565999712066" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block"
