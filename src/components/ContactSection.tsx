@@ -24,12 +24,12 @@ const ContactSection = () => {
             <div className="space-y-6">
               <div className="bg-background rounded-2xl p-6 border border-border">
                 <h3 className="font-display text-xl font-semibold text-foreground mb-4">
-                  Michel Muniz
+                  Tarso Quadros
                 </h3>
                 
                 <div className="space-y-4">
                   <a 
-                    href="tel:+5565999766669" 
+                    href="tel:+5565999712066" 
                     className="flex items-center gap-4 text-muted-foreground hover:text-primary transition-colors"
                   >
                     <div className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center">
@@ -37,7 +37,7 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">WhatsApp</p>
-                      <p className="font-semibold text-foreground">(65) 9 9976-6669</p>
+                      <p className="font-semibold text-foreground">(65) 9 9971-2066</p>
                     </div>
                   </a>
                   
@@ -62,7 +62,7 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Local do Evento</p>
-                      <p className="font-semibold text-foreground">Cuiabá - MT</p>
+                      <p className="font-semibold text-foreground">Cenárium Rural - Cuiabá - MT</p>
                     </div>
                   </div>
                 </div>
@@ -70,7 +70,7 @@ const ContactSection = () => {
 
               {/* Quick CTA */}
               <a 
-                href="https://wa.me/5565999766669" 
+                href="https://wa.me/5565999712066" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block"
@@ -94,7 +94,7 @@ const ContactSection = () => {
               <div className="w-24 h-1 bg-gradient-primary rounded-full mb-6" />
               
               <p className="text-muted-foreground mb-6">
-                20 de Junho de 2026 • Cuiabá - MT
+                02 e 03 de Junho de 2026 • Cenárium Rural - Cuiabá - MT
               </p>
               
               <div className="flex flex-wrap justify-center gap-2">

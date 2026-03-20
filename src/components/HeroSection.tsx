@@ -59,14 +59,14 @@ const HeroSection = () => {
             <CalendarDays className="w-6 h-6 text-primary" />
             <div className="text-left">
               <p className="text-sm text-muted-foreground">Data</p>
-              <p className="font-semibold text-foreground">20 de Junho, 2026</p>
+              <p className="font-semibold text-foreground">02 e 03 de Junho, 2026</p>
             </div>
           </div>
           <div className="flex items-center gap-3 bg-card/50 backdrop-blur-sm px-6 py-3 rounded-xl border border-border">
             <MapPin className="w-6 h-6 text-primary" />
             <div className="text-left">
               <p className="text-sm text-muted-foreground">Local</p>
-              <p className="font-semibold text-foreground">Cuiabá - MT</p>
+              <p className="font-semibold text-foreground">Cenárium Rural - Cuiabá - MT</p>
             </div>
           </div>
           <div className="flex items-center gap-3 bg-card/50 backdrop-blur-sm px-6 py-3 rounded-xl border border-border">
@@ -83,9 +83,11 @@ const HeroSection = () => {
           <Button size="lg" className="bg-gradient-primary hover:opacity-90 text-lg px-8 py-6 shadow-glow transition-all duration-300 hover:scale-105">
             Garantir Minha Vaga
           </Button>
-          <Button size="lg" variant="outline" className="text-lg px-8 py-6 border-primary/50 hover:bg-primary/10 transition-all duration-300">
-            Ser Patrocinador
-          </Button>
+          <a href="#patrocinio">
+            <Button size="lg" variant="outline" className="text-lg px-8 py-6 border-primary/50 hover:bg-primary/10 transition-all duration-300">
+              Ser Patrocinador
+            </Button>
+          </a>
         </div>
 
         {/* Keywords */}
