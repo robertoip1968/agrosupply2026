@@ -29,7 +29,7 @@ const ContactSection = () => {
                 
                 <div className="space-y-4">
                   <a 
-                    href="tel:+5565999766669" 
+                    href="tel:+5565999712066" 
                     className="flex items-center gap-4 text-muted-foreground hover:text-primary transition-colors"
                   >
                     <div className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center">
