@@ -5,11 +5,16 @@ import { CalendarDays, MapPin, Users } from "lucide-react";
 const HeroSection = () => {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-      {/* Background Image */}
-      <div 
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: `url(${heroBg})` }}
-      />
+      {/* Background Video */}
+      <div className="absolute inset-0 overflow-hidden">
+        <iframe
+          src="https://www.youtube.com/embed/teleG4NgSjQ?autoplay=1&mute=1&loop=1&playlist=teleG4NgSjQ&controls=0&showinfo=0&modestbranding=1&rel=0&playsinline=1"
+          className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[177.78vh] min-w-full min-h-full h-[56.25vw] pointer-events-none"
+          allow="autoplay; encrypted-media"
+          allowFullScreen
+          title="Agro Supply Summit"
+        />
+      </div>
       
       {/* Overlay Gradient */}
       <div className="absolute inset-0 bg-gradient-hero" />
