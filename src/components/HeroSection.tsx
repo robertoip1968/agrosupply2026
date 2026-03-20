@@ -66,7 +66,7 @@ const HeroSection = () => {
             <MapPin className="w-6 h-6 text-primary" />
             <div className="text-left">
               <p className="text-sm text-muted-foreground">Local</p>
-              <p className="font-semibold text-foreground">Cuiabá - MT</p>
+              <p className="font-semibold text-foreground">Cenárium Rural - Cuiabá - MT</p>
             </div>
           </div>
           <div className="flex items-center gap-3 bg-card/50 backdrop-blur-sm px-6 py-3 rounded-xl border border-border">
