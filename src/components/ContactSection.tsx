@@ -62,7 +62,7 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Local do Evento</p>
-                      <p className="font-semibold text-foreground">Cuiabá - MT</p>
+                      <p className="font-semibold text-foreground">Cenárium Rural - Cuiabá - MT</p>
                     </div>
                   </div>
                 </div>
