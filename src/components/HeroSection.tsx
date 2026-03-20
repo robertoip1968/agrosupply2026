@@ -59,7 +59,7 @@ const HeroSection = () => {
             <CalendarDays className="w-6 h-6 text-primary" />
             <div className="text-left">
               <p className="text-sm text-muted-foreground">Data</p>
-              <p className="font-semibold text-foreground">20 de Junho, 2026</p>
+              <p className="font-semibold text-foreground">02 e 03 de Junho, 2026</p>
             </div>
           </div>
           <div className="flex items-center gap-3 bg-card/50 backdrop-blur-sm px-6 py-3 rounded-xl border border-border">
