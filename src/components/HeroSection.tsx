@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { CalendarDays, MapPin, Users } from "lucide-react";
-import heroBg from "@/assets/hero-bg.jpg";
+
 
 const HeroSection = () => {
   return (
