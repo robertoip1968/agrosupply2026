@@ -24,7 +24,7 @@ const ContactSection = () => {
             <div className="space-y-6">
               <div className="bg-background rounded-2xl p-6 border border-border">
                 <h3 className="font-display text-xl font-semibold text-foreground mb-4">
-                  Michel Muniz
+                  Tarso Quadros
                 </h3>
                 
                 <div className="space-y-4">
