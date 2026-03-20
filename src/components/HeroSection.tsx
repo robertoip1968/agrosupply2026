@@ -83,9 +83,11 @@ const HeroSection = () => {
           <Button size="lg" className="bg-gradient-primary hover:opacity-90 text-lg px-8 py-6 shadow-glow transition-all duration-300 hover:scale-105">
             Garantir Minha Vaga
           </Button>
-          <Button size="lg" variant="outline" className="text-lg px-8 py-6 border-primary/50 hover:bg-primary/10 transition-all duration-300">
-            Ser Patrocinador
-          </Button>
+          <a href="#patrocinio">
+            <Button size="lg" variant="outline" className="text-lg px-8 py-6 border-primary/50 hover:bg-primary/10 transition-all duration-300">
+              Ser Patrocinador
+            </Button>
+          </a>
         </div>
 
         {/* Keywords */}

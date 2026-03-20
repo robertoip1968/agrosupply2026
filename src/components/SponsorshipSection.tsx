@@ -106,13 +106,17 @@ const SponsorshipSection = () => {
                 ))}
               </ul>
               
-              <button className={`w-full py-3 rounded-xl font-semibold transition-all ${
-                plan.popular 
-                  ? 'bg-gradient-primary text-primary-foreground hover:opacity-90' 
-                  : 'bg-muted text-foreground hover:bg-muted/80'
-              }`}>
+              <a 
+                href="https://wa.me/5565999712066" 
+                target="_blank"
+                rel="noopener noreferrer"
+                className={`block w-full py-3 rounded-xl font-semibold text-center transition-all ${
+                  plan.popular 
+                    ? 'bg-gradient-primary text-primary-foreground hover:opacity-90' 
+                    : 'bg-muted text-foreground hover:bg-muted/80'
+                }`}>
                 Solicitar Proposta
-              </button>
+              </a>
             </div>
           ))}
         </div>

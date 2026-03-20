@@ -94,7 +94,7 @@ const ContactSection = () => {
               <div className="w-24 h-1 bg-gradient-primary rounded-full mb-6" />
               
               <p className="text-muted-foreground mb-6">
-                20 de Junho de 2026 • Cuiabá - MT
+                02 e 03 de Junho de 2026 • Cenárium Rural - Cuiabá - MT
               </p>
               
               <div className="flex flex-wrap justify-center gap-2">
