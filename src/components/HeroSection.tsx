@@ -80,9 +80,11 @@ const HeroSection = () => {
 
         {/* CTA Buttons */}
         <div className="flex flex-wrap justify-center gap-4 animate-fade-up" style={{ animationDelay: '0.4s' }}>
-          <Button size="lg" className="bg-gradient-primary hover:opacity-90 text-lg px-8 py-6 shadow-glow transition-all duration-300 hover:scale-105">
-            Garantir Minha Vaga
-          </Button>
+          <a href="https://www.sympla.com.br/evento/agro-supply-summit-2026/3377465" target="_blank" rel="noopener noreferrer">
+            <Button size="lg" className="bg-gradient-primary hover:opacity-90 text-lg px-8 py-6 shadow-glow transition-all duration-300 hover:scale-105">
+              Garantir Minha Vaga
+            </Button>
+          </a>
           <a href="#patrocinio">
             <Button size="lg" variant="outline" className="text-lg px-8 py-6 border-primary/50 hover:bg-primary/10 transition-all duration-300">
               Ser Patrocinador

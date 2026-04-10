@@ -47,9 +47,11 @@ const Header = () => {
                 {link.label}
               </a>
             ))}
-            <Button className="bg-gradient-primary hover:opacity-90">
-              Inscreva-se
-            </Button>
+            <a href="https://www.sympla.com.br/evento/agro-supply-summit-2026/3377465" target="_blank" rel="noopener noreferrer">
+              <Button className="bg-gradient-primary hover:opacity-90">
+                Inscreva-se
+              </Button>
+            </a>
           </nav>
 
           {/* Mobile Menu Button */}
@@ -75,9 +77,11 @@ const Header = () => {
                   {link.label}
                 </a>
               ))}
-              <Button className="bg-gradient-primary hover:opacity-90 w-full mt-2">
-                Inscreva-se
-              </Button>
+              <a href="https://www.sympla.com.br/evento/agro-supply-summit-2026/3377465" target="_blank" rel="noopener noreferrer">
+                <Button className="bg-gradient-primary hover:opacity-90 w-full mt-2">
+                  Inscreva-se
+                </Button>
+              </a>
             </nav>
           </div>
         )}
