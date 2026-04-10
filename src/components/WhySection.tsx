@@ -75,7 +75,7 @@ const WhySection = () => {
               Aos movimentos do agro brasileiro. Garanta sua presença neste evento que está transformando a cadeia de suprimentos do país.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
-              <a href="#contato" className="inline-flex items-center gap-2 bg-background text-foreground px-8 py-4 rounded-xl font-semibold hover:bg-background/90 transition-colors">
+              <a href="https://www.sympla.com.br/evento/agro-supply-summit-2026/3377465" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-background text-foreground px-8 py-4 rounded-xl font-semibold hover:bg-background/90 transition-colors">
                 <Check className="w-5 h-5" />
                 Quero Participar
               </a>
