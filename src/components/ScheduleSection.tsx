@@ -20,7 +20,6 @@ const day1: Item[] = [
     time: "09:00 – 09:30",
     title: "Abertura Institucional",
     type: "open",
-    description: "“O futuro da cadeia de suprimentos do agro”",
     speakers: ["José Vengrus (Zezão)"],
   },
   {
@@ -35,10 +34,6 @@ const day1: Item[] = [
     title:
       "PAINEL — O agro sob pressão: custo, risco e competitividade na nova cadeia global",
     type: "panel",
-    highlights: [
-      "Macrotendências (mercado, geopolítica, supply global)",
-      "Pressão por eficiência e sustentabilidade",
-    ],
     speakers: [
       "Flavio Hirata — Defensivos Agrícolas",
       "Claudio Dorneles",
@@ -52,11 +47,6 @@ const day1: Item[] = [
     title:
       "PAINEL — Risco & Compliance na cadeia: Compliance que gera resultado, da obrigação regulatória à estratégia de negócio",
     type: "panel",
-    highlights: [
-      "Homologação de fornecedores (tendências)",
-      "Compliance como estratégia",
-      "Due diligence no agro",
-    ],
     speakers: [
       "Tatiane Brose — SLC",
       "Camila Mendes Ramos — Amaggi",
@@ -82,10 +72,6 @@ const day1: Item[] = [
     title:
       "PAINEL — Talks de Patrocinadores (Cotas Ouro/Diamante): Soluções que estão transformando a cadeia na prática",
     type: "panel",
-    highlights: [
-      "3 a 4 talks rápidos (10–15 min cada)",
-      "Conteúdo aplicado (cases / soluções)",
-    ],
     speakers: [
       "Azupack",
       "FourGroup — Gustavo Steglich",
@@ -106,11 +92,6 @@ const day2: Item[] = [
     title:
       "PALESTRA — Compras estratégicas sob pressão: KPIs, concentração de fornecedores e gestão de risco",
     type: "keynote",
-    highlights: [
-      "KPIs além de savings",
-      "Risco de single source",
-      "Estratégia de fornecedores",
-    ],
     speakers: ["Mauro Saldanha"],
   },
   { time: "10:00 – 10:30", title: "Coffee Break", type: "break" },
@@ -126,8 +107,6 @@ const day2: Item[] = [
     title:
       "PAINEL — DEBATE EXECUTIVO: “O legado em transformação: como a nova geração está redesenhando o agro brasileiro”",
     type: "panel",
-    description:
-      "Um debate executivo sobre sucessão, profissionalização, inovação e tomada de decisão dentro de grandes grupos familiares do agronegócio.",
     speakers: [
       "Mediador: Jules Ignácio",
       "Léo Maggi",
@@ -142,11 +121,6 @@ const day2: Item[] = [
     title:
       "PAINEL — Tecnologia & Futuro da Cadeia: Supply Chain 4.0 no agro — rastreabilidade, dados e decisões em tempo real",
     type: "panel",
-    highlights: [
-      "Rastreabilidade ponta a ponta",
-      "Digitalização da cadeia",
-      "IA e dados aplicados ao supply",
-    ],
     speakers: [
       "Mediador: Nahzir",
       "Guilherme Argenta",
@@ -160,7 +134,6 @@ const day2: Item[] = [
     title:
       "PALESTRA FINAL — Agro 2030: quem vai liderar a próxima geração da cadeia de suprimentos?",
     type: "keynote",
-    highlights: ["Provocações estratégicas", "Visão 2030"],
     speakers: ["Rodrigo Bonato"],
   },
   {
