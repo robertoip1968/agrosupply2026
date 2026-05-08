@@ -150,9 +150,9 @@ const day2: Item[] = [
     ],
     speakers: [
       "Mediador: Nahzir",
-      "Guilherme Argenta (confirmado)",
-      "Joaquim Jonkel — Totvs (confirmado)",
-      "Prof. Paulo Roberto — FDC (confirmado)",
+      "Guilherme Argenta",
+      "Joaquim Jonkel — Totvs",
+      "Prof. Paulo Roberto — FDC",
     ],
   },
   { time: "15:30 – 16:00", title: "Coffee + Networking", type: "break" },
