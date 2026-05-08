@@ -35,7 +35,7 @@ const day1: Item[] = [
       "PAINEL — O agro sob pressão: custo, risco e competitividade na nova cadeia global",
     type: "panel",
     speakers: [
-      "Flavio Hirata — Defensivos Agrícolas",
+      "Flavio Hirata",
       "Claudio Dorneles",
       "Santiago Franco",
     ],
