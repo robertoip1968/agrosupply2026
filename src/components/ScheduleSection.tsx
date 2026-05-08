@@ -70,7 +70,7 @@ const day1: Item[] = [
   {
     time: "16:00 – 17:00",
     title:
-      "PAINEL — Talks de Patrocinadores (Cotas Ouro/Diamante): Soluções que estão transformando a cadeia na prática",
+      "PAINEL — Talks de Patrocinadores: Soluções que estão transformando a cadeia na prática.",
     type: "panel",
     speakers: [
       "Azupack",
