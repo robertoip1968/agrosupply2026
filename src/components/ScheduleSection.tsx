@@ -50,7 +50,7 @@ const day1: Item[] = [
     speakers: [
       "Tatiane Brose — SLC",
       "Camila Mendes Ramos — Amaggi",
-      "Participante 03: a definir",
+      "Participante 03",
       "Mediador: José Herculano Santos",
     ],
   },
