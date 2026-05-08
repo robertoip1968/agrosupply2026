@@ -44,9 +44,9 @@ const day1: Item[] = [
       "Pressão por eficiência e sustentabilidade",
     ],
     speakers: [
-      "Flavio Hirata — Defensivos Agrícolas (confirmado)",
-      "Claudio Dorneles (confirmado)",
-      "Santiago Franco (confirmado)",
+      "Flavio Hirata — Defensivos Agrícolas",
+      "Claudio Dorneles",
+      "Santiago Franco",
       "Mediador: a definir",
     ],
   },
@@ -62,8 +62,8 @@ const day1: Item[] = [
       "Due diligence no agro",
     ],
     speakers: [
-      "Tatiane Brose — SLC (confirmado)",
-      "Camila Mendes Ramos — Amaggi (confirmado)",
+      "Tatiane Brose — SLC",
+      "Camila Mendes Ramos — Amaggi",
       "Participante 03: a definir",
       "Mediador: José Herculano Santos (a confirmar)",
     ],
@@ -93,7 +93,7 @@ const day1: Item[] = [
     speakers: [
       "Azupack",
       "FourGroup — Gustavo Steglich",
-      "John Deere — Rafael Marques (confirmado)",
+      "John Deere — Rafael Marques",
     ],
   },
   {
@@ -162,7 +162,7 @@ const day2: Item[] = [
       "PALESTRA FINAL — Agro 2030: quem vai liderar a próxima geração da cadeia de suprimentos?",
     type: "keynote",
     highlights: ["Provocações estratégicas", "Visão 2030"],
-    speakers: ["Rodrigo Bonato (confirmado)"],
+    speakers: ["Rodrigo Bonato"],
   },
   {
     time: "17:30 – 18:00",
