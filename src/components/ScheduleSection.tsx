@@ -15,10 +15,6 @@ const day1: Item[] = [
     time: "08:00 – 09:00",
     title: "Credenciamento + Welcome Coffee",
     type: "networking",
-    highlights: [
-      "Ambiente já preparado para networking inicial",
-      "Ativação de patrocinadores (stands)",
-    ],
   },
   {
     time: "09:00 – 09:30",
