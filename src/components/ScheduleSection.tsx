@@ -123,7 +123,7 @@ const day2: Item[] = [
     title:
       "PALESTRA 4 — O Novo Profissional de Compras: competências, mentalidade e tomada de decisão nas grandes empresas",
     type: "keynote",
-    speakers: ["Victor Sakitani (confirmado)"],
+    speakers: ["Victor Sakitani"],
   },
   {
     time: "11:00 – 12:00",
