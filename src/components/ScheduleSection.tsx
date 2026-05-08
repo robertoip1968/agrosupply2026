@@ -32,7 +32,7 @@ const day1: Item[] = [
     title:
       "PALESTRA 1 — ATIVACIONAL: Decisões que moldam o futuro: carreira, liderança e pressão por resultado no novo agro",
     type: "keynote",
-    speakers: ["Elaine Fernandes (a confirmar)"],
+    speakers: ["Elaine Fernandes"],
   },
   {
     time: "10:30 – 12:00",
@@ -47,7 +47,7 @@ const day1: Item[] = [
       "Flavio Hirata — Defensivos Agrícolas",
       "Claudio Dorneles",
       "Santiago Franco",
-      "Mediador: a definir",
+      "Mediador",
     ],
   },
   { time: "12:00 – 13:30", title: "Almoço", type: "break" },
@@ -64,8 +64,8 @@ const day1: Item[] = [
     speakers: [
       "Tatiane Brose — SLC",
       "Camila Mendes Ramos — Amaggi",
-      "Participante 03: a definir",
-      "Mediador: José Herculano Santos (a confirmar)",
+      "Participante 03",
+      "Mediador: José Herculano Santos",
     ],
   },
   {
@@ -73,7 +73,7 @@ const day1: Item[] = [
     title: "PALESTRA 2 — Engenharia Automotiva",
     type: "keynote",
     speakers: [
-      "Everton Lopes — Associação Brasileira de Engenharia Automotiva (a confirmar)",
+      "Everton Lopes — Associação Brasileira de Engenharia Automotiva",
     ],
   },
   {
