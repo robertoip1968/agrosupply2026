@@ -38,7 +38,7 @@ const day1: Item[] = [
       "Flavio Hirata — Defensivos Agrícolas",
       "Claudio Dorneles",
       "Santiago Franco",
-      "Mediador: a definir",
+      "Mediador:",
     ],
   },
   { time: "12:00 – 13:30", title: "Almoço", type: "break" },
