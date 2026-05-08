@@ -127,8 +127,11 @@ const day2: Item[] = [
   },
   {
     time: "11:00 – 12:00",
-    title: "PAINEL — Debate Executivo",
+    title:
+      "PAINEL 5 — DEBATE EXECUTIVO: “O legado em transformação: como a nova geração está redesenhando o agro brasileiro”",
     type: "panel",
+    description:
+      "Um debate executivo sobre sucessão, profissionalização, inovação e tomada de decisão dentro de grandes grupos familiares do agronegócio.",
     speakers: [
       "Mediador: Jules Ignácio",
       "Léo Maggi",
