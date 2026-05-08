@@ -32,7 +32,7 @@ const day1: Item[] = [
     title:
       "PALESTRA 1 — ATIVACIONAL: Decisões que moldam o futuro: carreira, liderança e pressão por resultado no novo agro",
     type: "keynote",
-    speakers: ["Elaine Fernandes"],
+    speakers: ["Lorena Lacerda"],
   },
   {
     time: "10:30 – 12:00",
