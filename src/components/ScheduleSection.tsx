@@ -26,14 +26,14 @@ const day1: Item[] = [
   {
     time: "09:30 – 10:30",
     title:
-      "PALESTRA 1 — ATIVACIONAL: Decisões que moldam o futuro: carreira, liderança e pressão por resultado no novo agro",
+      "PALESTRA — ATIVACIONAL: Decisões que moldam o futuro: carreira, liderança e pressão por resultado no novo agro",
     type: "keynote",
     speakers: ["Lorena Lacerda"],
   },
   {
     time: "10:30 – 12:00",
     title:
-      "PAINEL 1 — O agro sob pressão: custo, risco e competitividade na nova cadeia global",
+      "PAINEL — O agro sob pressão: custo, risco e competitividade na nova cadeia global",
     type: "panel",
     highlights: [
       "Macrotendências (mercado, geopolítica, supply global)",
@@ -50,7 +50,7 @@ const day1: Item[] = [
   {
     time: "13:30 – 15:00",
     title:
-      "PAINEL 2 — Risco & Compliance na cadeia: Compliance que gera resultado, da obrigação regulatória à estratégia de negócio",
+      "PAINEL — Risco & Compliance na cadeia: Compliance que gera resultado, da obrigação regulatória à estratégia de negócio",
     type: "panel",
     highlights: [
       "Homologação de fornecedores (tendências)",
@@ -66,7 +66,7 @@ const day1: Item[] = [
   },
   {
     time: "15:00 – 15:30",
-    title: "PALESTRA 2 — Engenharia Automotiva",
+    title: "PALESTRA — Engenharia Automotiva",
     type: "keynote",
     speakers: [
       "Everton Lopes — Associação Brasileira de Engenharia Automotiva",
@@ -104,7 +104,7 @@ const day2: Item[] = [
   {
     time: "09:00 – 10:00",
     title:
-      "PALESTRA 3 — Compras estratégicas sob pressão: KPIs, concentração de fornecedores e gestão de risco",
+      "PALESTRA — Compras estratégicas sob pressão: KPIs, concentração de fornecedores e gestão de risco",
     type: "keynote",
     highlights: [
       "KPIs além de savings",
@@ -117,14 +117,14 @@ const day2: Item[] = [
   {
     time: "10:30 – 11:00",
     title:
-      "PALESTRA 4 — O Novo Profissional de Compras: competências, mentalidade e tomada de decisão nas grandes empresas",
+      "PALESTRA — O Novo Profissional de Compras: competências, mentalidade e tomada de decisão nas grandes empresas",
     type: "keynote",
     speakers: ["Victor Sakitani"],
   },
   {
     time: "11:00 – 12:00",
     title:
-      "PAINEL 5 — DEBATE EXECUTIVO: “O legado em transformação: como a nova geração está redesenhando o agro brasileiro”",
+      "PAINEL — DEBATE EXECUTIVO: “O legado em transformação: como a nova geração está redesenhando o agro brasileiro”",
     type: "panel",
     description:
       "Um debate executivo sobre sucessão, profissionalização, inovação e tomada de decisão dentro de grandes grupos familiares do agronegócio.",
