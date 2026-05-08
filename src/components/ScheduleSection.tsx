@@ -149,7 +149,7 @@ const day2: Item[] = [
       "IA e dados aplicados ao supply",
     ],
     speakers: [
-      "Mediador: Nahzir (confirmado)",
+      "Mediador: Nahzir",
       "Guilherme Argenta (confirmado)",
       "Joaquim Jonkel — Totvs (confirmado)",
       "Prof. Paulo Roberto — FDC (confirmado)",
