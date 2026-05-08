@@ -115,7 +115,7 @@ const day2: Item[] = [
       "Risco de single source",
       "Estratégia de fornecedores",
     ],
-    speakers: ["Mauro Saldanha (confirmado)"],
+    speakers: ["Mauro Saldanha"],
   },
   { time: "10:00 – 10:30", title: "Coffee Break", type: "break" },
   {
