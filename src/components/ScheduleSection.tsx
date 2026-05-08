@@ -25,7 +25,7 @@ const day1: Item[] = [
     title: "Abertura Institucional",
     type: "open",
     description: "“O futuro da cadeia de suprimentos do agro”",
-    speakers: ["José Vengrus (Zezão) — confirmado"],
+    speakers: ["José Vengrus (Zezão)"],
   },
   {
     time: "09:30 – 10:30",
