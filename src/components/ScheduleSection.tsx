@@ -36,7 +36,7 @@ const day1: Item[] = [
     type: "panel",
     speakers: [
       "Flavio Hirata — Sócio Allier Brasil",
-      "Claudio Dorneles",
+      "Claudio Dorneles — Supply Manager at Grupo SLC",
       "Santiago Franco",
     ],
   },
