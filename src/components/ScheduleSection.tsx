@@ -109,7 +109,7 @@ const day2: Item[] = [
       "Mediador: Jules Ignácio",
       "Leonardo Maggi — Conselheiro Amaggi",
       "Guilherme Scheffer — Diretor Financeiro / Comercial Scheffer",
-      "Kleverson Scheffer",
+      "Kleverson Scheffer — Bom Futuro",
       "Rafael Bortolli",
     ],
   },
