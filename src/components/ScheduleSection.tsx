@@ -120,7 +120,7 @@ const day2: Item[] = [
       "PAINEL — Tecnologia & Futuro da Cadeia: Supply Chain 4.0 no agro — rastreabilidade, dados e decisões em tempo real",
     type: "panel",
     speakers: [
-      "Mediador: Nahzir",
+      "Mediador: Nahzir Okde — Bom Futuro",
       "Guilherme Argenta",
       "Joaquim Jonkel — Totvs",
       "Prof. Paulo Roberto — FDC",
