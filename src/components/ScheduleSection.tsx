@@ -110,7 +110,7 @@ const day2: Item[] = [
       "Leonardo Maggi — Conselheiro Amaggi",
       "Guilherme Scheffer — Diretor Financeiro / Comercial Scheffer",
       "Kleverson Scheffer — Bom Futuro",
-      "Rafael Bortolli",
+      "Rafael Bortoli — CEO Natter",
     ],
   },
   { time: "12:00 – 13:30", title: "Almoço + Networking", type: "break" },
