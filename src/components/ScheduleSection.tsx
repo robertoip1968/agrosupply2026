@@ -90,7 +90,7 @@ const day2: Item[] = [
     title:
       "PALESTRA — Compras estratégicas sob pressão: KPIs, concentração de fornecedores e gestão de risco",
     type: "keynote",
-    speakers: ["Mauro Saldanha"],
+    speakers: ["Mauro Saldanha — Especialista em Procurement e Supply Chain — Academus Procurement Skills e CadarN Consultoria"],
   },
   { time: "10:00 – 10:30", title: "Coffee Break", type: "break" },
   {
