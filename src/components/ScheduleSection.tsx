@@ -27,7 +27,7 @@ const day1: Item[] = [
     title:
       "PALESTRA — ATIVACIONAL: Decisões que moldam o futuro: carreira, liderança e pressão por resultado no novo agro",
     type: "keynote",
-    speakers: ["Lorena Lacerda"],
+    speakers: ["Lorena Lacerda — CEO e Fundadora do Grupo Valure"],
   },
   {
     time: "10:30 – 12:00",
