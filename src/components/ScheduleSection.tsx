@@ -108,7 +108,7 @@ const day2: Item[] = [
     speakers: [
       "Mediador: Jules Ignácio",
       "Leonardo Maggi — Conselheiro Amaggi",
-      "Guilherme Scheffer",
+      "Guilherme Scheffer — Diretor Financeiro / Comercial Scheffer",
       "Kleverson Scheffer",
       "Rafael Bortolli",
     ],
