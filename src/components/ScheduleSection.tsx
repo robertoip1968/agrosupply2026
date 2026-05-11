@@ -73,7 +73,7 @@ const day1: Item[] = [
     speakers: [
       "Azupack",
       "FourGroup",
-      "John Deere — Rafael Marques",
+      "John Deere",
     ],
   },
   {
