@@ -107,7 +107,7 @@ const day2: Item[] = [
     type: "panel",
     speakers: [
       "Mediador: Jules Ignácio",
-      "Léo Maggi",
+      "Leonardo Maggi — Conselheiro Amaggi",
       "Guilherme Scheffer",
       "Kleverson Scheffer",
       "Rafael Bortolli",
