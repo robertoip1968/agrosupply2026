@@ -72,7 +72,7 @@ const day1: Item[] = [
     type: "panel",
     speakers: [
       "Azupack",
-      "FourGroup — Gustavo Steglich",
+      "FourGroup",
       "John Deere — Rafael Marques",
     ],
   },
