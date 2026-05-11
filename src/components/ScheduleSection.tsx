@@ -132,7 +132,7 @@ const day2: Item[] = [
     title:
       "PALESTRA FINAL — Agro 2030: quem vai liderar a próxima geração da cadeia de suprimentos?",
     type: "keynote",
-    speakers: ["Rodrigo Bonato"],
+    speakers: ["Rodrigo Bonato — Vice President, Marketing and Sales — Latin America — John Deere"],
   },
   {
     time: "17:30 – 18:00",
