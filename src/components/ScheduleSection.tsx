@@ -98,7 +98,7 @@ const day2: Item[] = [
     title:
       "PALESTRA — O Novo Profissional de Compras: competências, mentalidade e tomada de decisão nas grandes empresas",
     type: "keynote",
-    speakers: ["Victor Sakitani"],
+    speakers: ["Victor Sakitani — Fundador e diretor geral GVF Desenvolvimento de Líderes"],
   },
   {
     time: "11:00 – 12:00",
