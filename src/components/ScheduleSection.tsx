@@ -20,7 +20,7 @@ const day1: Item[] = [
     time: "09:00 – 09:30",
     title: "Abertura Institucional",
     type: "open",
-    speakers: ["José Vengrus (Zezão)"],
+    speakers: ["José Vengrus (Zezão) — Diretor de Mecanização Agrícola Bom Futuro"],
   },
   {
     time: "09:30 – 10:30",
