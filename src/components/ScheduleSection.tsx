@@ -37,7 +37,7 @@ const day1: Item[] = [
     speakers: [
       "Flavio Hirata — Sócio Allier Brasil",
       "Claudio Dorneles — Supply Manager at Grupo SLC",
-      "Santiago Franco",
+      "Santiago Franco — CEO Cibra",
     ],
   },
   { time: "12:00 – 13:30", title: "Almoço", type: "break" },
