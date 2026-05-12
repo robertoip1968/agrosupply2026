@@ -26,7 +26,7 @@ const tiers: {
     icon: Diamond,
     iconClass: "text-sky-300",
     sponsors: [
-      { src: azulpack, alt: "Azulpack" },
+      { src: azulpack, alt: "Azulpack", scale: 1.6 },
       { src: johnDeere, alt: "John Deere" },
     ],
   },
