@@ -13,18 +13,18 @@ import c3business from "@/assets/sponsors/c3business.png";
 
 type Sponsor = { src: string; alt: string; maxH?: string };
 
+const LOGO_H = "h-16 md:h-20";
+
 const tiers: {
   label: string;
   icon: typeof Diamond;
   iconClass: string;
-  logoH: string;
   sponsors: Sponsor[];
 }[] = [
   {
     label: "Cota Diamante",
     icon: Diamond,
     iconClass: "text-sky-300",
-    logoH: "h-20 md:h-24",
     sponsors: [
       { src: azulpack, alt: "Azulpack" },
       { src: johnDeere, alt: "John Deere" },
@@ -34,14 +34,12 @@ const tiers: {
     label: "Cota Ouro",
     icon: Trophy,
     iconClass: "text-amber-400",
-    logoH: "h-16 md:h-20",
     sponsors: [{ src: fourgroup, alt: "FourGroup" }],
   },
   {
     label: "Cota Prata",
     icon: Award,
     iconClass: "text-slate-300",
-    logoH: "h-12 md:h-14",
     sponsors: [
       { src: totvs, alt: "TOTVS" },
       { src: mahle, alt: "Mahle" },
@@ -52,7 +50,6 @@ const tiers: {
     label: "Apoiadores",
     icon: Handshake,
     iconClass: "text-primary",
-    logoH: "h-12 md:h-14",
     sponsors: [
       { src: slc, alt: "SLC Agrícola" },
       { src: bomFuturo, alt: "Bom Futuro" },
@@ -73,7 +70,7 @@ const SponsorsSection = () => {
         </p>
 
         <div className="space-y-5 max-w-5xl mx-auto">
-          {tiers.map(({ label, icon: Icon, iconClass, logoH, sponsors }) => (
+          {tiers.map(({ label, icon: Icon, iconClass, sponsors }) => (
             <div
               key={label}
               className="rounded-2xl border border-border bg-card/60 backdrop-blur-sm px-6 py-8 shadow-card"
@@ -91,7 +88,7 @@ const SponsorsSection = () => {
                     src={s.src}
                     alt={s.alt}
                     loading="lazy"
-                    className={`${logoH} w-auto object-contain opacity-90 hover:opacity-100 transition-opacity`}
+                    className={`${LOGO_H} w-auto object-contain opacity-90 hover:opacity-100 transition-opacity`}
                   />
                 ))}
               </div>
