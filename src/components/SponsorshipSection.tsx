@@ -22,7 +22,6 @@ const plans = [
       "Stand 3x3 em área de circulação",
       "20 convites VIP",
       "Vídeo institucional nas telas",
-      "Participação em podcast",
       "Item no kit + logomarca"
     ]
   },
