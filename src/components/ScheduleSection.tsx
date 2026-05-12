@@ -122,7 +122,7 @@ const day2: Item[] = [
     speakers: [
       "Mediador: Nahzir Okde — Bom Futuro",
       "Guilherme Argenta — SLC Agrícola S/A",
-      "Joaquim Jonkel — Totvs",
+      "Silvio Mota — Totvs",
       "Prof. Paulo Roberto — FDC",
     ],
   },
