@@ -43,7 +43,7 @@ const tiers: {
     sponsors: [
       { src: totvs, alt: "TOTVS" },
       { src: mahle, alt: "Mahle", scale: 1.8 },
-      { src: sompo, alt: "Sompo" },
+      { src: sompo, alt: "Sompo", scale: 1.5 },
     ],
   },
   {
