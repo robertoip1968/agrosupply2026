@@ -27,7 +27,7 @@ const tiers: {
     iconClass: "text-sky-300",
     sponsors: [
       { src: azulpack, alt: "Azulpack", scale: 1.5 },
-      { src: johnDeere, alt: "John Deere" },
+      { src: johnDeere, alt: "John Deere", scale: 1.5 },
     ],
   },
   {
