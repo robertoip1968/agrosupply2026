@@ -1,12 +1,6 @@
-import { TrendingUp, Users, Calendar, Newspaper } from "lucide-react";
+import { Users, Calendar, Newspaper } from "lucide-react";
 
 const stats = [
-  {
-    icon: TrendingUp,
-    value: "+8.5%",
-    label: "Projeção safra 25/26",
-    description: "Crescimento esperado"
-  },
   {
     icon: Users,
     value: "2",
@@ -45,7 +39,7 @@ const StatsSection = () => {
           </h2>
         </div>
 
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {stats.map((stat, index) => (
             <div 
               key={stat.label}
