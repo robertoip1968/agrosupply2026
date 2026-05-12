@@ -41,7 +41,7 @@ const StatsSection = () => {
             Presença confirmada
           </span>
           <h2 className="font-display text-4xl md:text-5xl font-bold text-foreground mt-4">
-            O Supply Chain do Agro <span className="text-gradient">Avança</span>
+            Empresas e marcas que acreditam no <span className="text-gradient">Agro Supply Summit 2026</span>
           </h2>
         </div>
 
