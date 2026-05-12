@@ -64,6 +64,11 @@ const SponsorsSection = () => {
   return (
     <section className="pb-24 bg-background">
       <div className="container mx-auto px-4">
+        <p className="text-center text-muted-foreground max-w-2xl mx-auto mb-10">
+          Conectando indústria, tecnologia, inovação e os principais players do
+          agronegócio nacional.
+        </p>
+
         <div className="space-y-5 max-w-5xl mx-auto">
           {tiers.map(({ label, icon: Icon, iconClass, sponsors }) => (
             <div
