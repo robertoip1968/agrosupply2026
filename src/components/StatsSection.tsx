@@ -1,12 +1,6 @@
-import { TrendingUp, Users, Calendar, Newspaper } from "lucide-react";
+import { Users, Calendar, Newspaper } from "lucide-react";
 
 const stats = [
-  {
-    icon: TrendingUp,
-    value: "+8.5%",
-    label: "Projeção safra 25/26",
-    description: "Crescimento esperado"
-  },
   {
     icon: Users,
     value: "2",
