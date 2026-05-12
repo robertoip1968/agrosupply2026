@@ -1,12 +1,6 @@
-import { Users, Calendar, Newspaper } from "lucide-react";
+import { Calendar, Newspaper } from "lucide-react";
 
 const stats = [
-  {
-    icon: Users,
-    value: "2",
-    label: "Dias de Evento",
-    description: "Mais tempo para conexões"
-  },
   {
     icon: Newspaper,
     value: "230k+",
