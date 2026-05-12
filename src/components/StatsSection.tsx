@@ -38,7 +38,7 @@ const StatsSection = () => {
       <div className="container mx-auto px-4 relative z-10">
         <div className="text-center mb-16">
           <span className="text-primary font-semibold tracking-wide uppercase">
-            Os números comprovam
+            Presença confirmada
           </span>
           <h2 className="font-display text-4xl md:text-5xl font-bold text-foreground mt-4">
             O Supply Chain do Agro <span className="text-gradient">Avança</span>
