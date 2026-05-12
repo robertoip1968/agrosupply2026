@@ -35,7 +35,6 @@ const plans = [
       "Stand 5x5 em área nobre",
       "35 convites VIP",
       "Participação ativa na programação",
-      "Podcast, kit, vídeo + painel",
       "Logomarca em todos os pontos",
       "Visibilidade ampliada"
     ]
