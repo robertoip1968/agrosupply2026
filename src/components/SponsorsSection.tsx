@@ -4,7 +4,7 @@ import johnDeere from "@/assets/sponsors/john-deere.png";
 import fourgroup from "@/assets/sponsors/fourgroup.png";
 import totvs from "@/assets/sponsors/totvs.png";
 import sompo from "@/assets/sponsors/sompo.png";
-import mahle from "@/assets/sponsors/mahle.svg";
+import mahle from "@/assets/sponsors/mahle.png";
 import slc from "@/assets/sponsors/slc.png";
 import bomFuturo from "@/assets/sponsors/bom-futuro.png";
 import bomJesus from "@/assets/sponsors/bom-jesus.png";
