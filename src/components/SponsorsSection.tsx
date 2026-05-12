@@ -11,7 +11,7 @@ import bomJesus from "@/assets/sponsors/bom-jesus.png";
 import tresCoracoes from "@/assets/sponsors/3coracoes.png";
 import c3business from "@/assets/sponsors/c3business.png";
 
-type Sponsor = { src: string; alt: string; maxH?: string };
+type Sponsor = { src: string; alt: string; scale?: number };
 
 const LOGO_H = "h-16 md:h-20";
 
@@ -42,7 +42,7 @@ const tiers: {
     iconClass: "text-slate-300",
     sponsors: [
       { src: totvs, alt: "TOTVS" },
-      { src: mahle, alt: "Mahle" },
+      { src: mahle, alt: "Mahle", scale: 1.8 },
       { src: sompo, alt: "Sompo" },
     ],
   },
@@ -88,6 +88,7 @@ const SponsorsSection = () => {
                     src={s.src}
                     alt={s.alt}
                     loading="lazy"
+                    style={s.scale ? { transform: `scale(${s.scale})` } : undefined}
                     className={`${LOGO_H} w-auto object-contain opacity-90 hover:opacity-100 transition-opacity`}
                   />
                 ))}
