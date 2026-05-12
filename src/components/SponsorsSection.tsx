@@ -81,7 +81,7 @@ const SponsorsSection = () => {
                   {label}
                 </span>
               </div>
-              <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-6">
+              <div className="flex flex-wrap items-center justify-center gap-x-20 md:gap-x-24 gap-y-10">
                 {sponsors.map((s) => (
                   <img
                     key={s.alt}
