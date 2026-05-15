@@ -38,6 +38,7 @@ const day1: Item[] = [
       "Flavio Hirata — Sócio Allier Brasil",
       "Claudio Dorneles — Supply Manager at Grupo SLC",
       "Santiago Franco — CEO Cibra",
+      "Gustavo de Oliveira — Brita Guia",
     ],
   },
   { time: "12:00 – 13:30", title: "Almoço", type: "break" },
