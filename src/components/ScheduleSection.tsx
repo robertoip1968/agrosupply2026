@@ -57,7 +57,7 @@ const day1: Item[] = [
     title: "PALESTRA — Engenharia Automotiva",
     type: "keynote",
     speakers: [
-      "Everton Lopes — Associação Brasileira de Engenharia Automotiva",
+      "Everton Lopes — Mahle",
     ],
   },
   {
