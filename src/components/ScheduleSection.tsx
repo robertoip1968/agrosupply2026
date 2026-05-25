@@ -110,7 +110,7 @@ const day2: Item[] = [
       "Mediador: Jules Ignácio",
       "Gustavo Capelli — Bom Futuro",
       "Claudio Dorneles — SLC Agrícola",
-      "Kleverson Scheffer — Bom Futuro",
+      "Marcio Kopper — Grupo Bom Jesus",
       "Rafael Bortoli — CEO Natter",
     ],
   },
