@@ -133,7 +133,7 @@ const day2: Item[] = [
     title:
       "PAINEL DE ENCERRAMENTO — Agro 2030: quem vai liderar a próxima geração da cadeia de suprimentos?",
     type: "keynote",
-    speakers: ["Rodrigo Bonato — Vice President, Marketing and Sales — Latin America — John Deere"],
+    speakers: ["Eduardo Contato - Region Strategic Customer Support Manager - John Deere"],
   },
   {
     time: "17:30 – 18:00",
