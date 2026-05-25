@@ -104,7 +104,7 @@ const day2: Item[] = [
   {
     time: "11:00 – 12:00",
     title:
-      "PAINEL — Debate Executivo: "Quem sustenta o crescimento do Agro? Os desafios invisíveis da cadeia de suprimentos brasileira"",
+      'PAINEL — Debate Executivo: "Quem sustenta o crescimento do Agro? Os desafios invisíveis da cadeia de suprimentos brasileira"',
     type: "panel",
     speakers: [
       "Mediador: Jules Ignácio",
