@@ -93,7 +93,7 @@ const day2: Item[] = [
     type: "keynote",
     speakers: ["Mauro Saldanha — Especialista em Procurement e Supply Chain — Academus Procurement Skills e CadarN Consultoria"],
   },
-  { time: "10:00 – 10:30", title: "Coffee Break", type: "break" },
+  { time: "10:00 – 10:30", title: "Intervalo para networking", type: "break" },
   {
     time: "10:30 – 11:00",
     title:
