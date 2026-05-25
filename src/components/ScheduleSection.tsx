@@ -122,7 +122,6 @@ const day2: Item[] = [
     type: "panel",
     speakers: [
       "Mediador: Nahzir Okde — Bom Futuro",
-      "Guilherme Argenta — SLC Agrícola S/A",
       "Silvio Mota — Mercado Eletrônico",
       "Prof. Paulo Roberto — FDC",
     ],
