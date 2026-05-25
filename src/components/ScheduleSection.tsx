@@ -111,7 +111,7 @@ const day2: Item[] = [
       "Gustavo Capelli — Bom Futuro",
       "Claudio Dorneles — SLC Agrícola",
       "Marcio Kopper — Grupo Bom Jesus",
-      "Rafael Bortoli — CEO Natter",
+      
     ],
   },
   { time: "12:00 – 13:30", title: "Almoço + Networking", type: "break" },
