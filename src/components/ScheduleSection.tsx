@@ -109,7 +109,7 @@ const day2: Item[] = [
     speakers: [
       "Mediador: Jules Ignácio",
       "Gustavo Capelli — Bom Futuro",
-      "Guilherme Scheffer — Diretor Financeiro / Comercial Scheffer",
+      "Claudio Dorneles — SLC Agrícola",
       "Kleverson Scheffer — Bom Futuro",
       "Rafael Bortoli — CEO Natter",
     ],
