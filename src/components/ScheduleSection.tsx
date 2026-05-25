@@ -108,7 +108,7 @@ const day2: Item[] = [
     type: "panel",
     speakers: [
       "Mediador: Jules Ignácio",
-      "Leonardo Maggi — Conselheiro Amaggi",
+      "Gustavo Capelli — Bom Futuro",
       "Guilherme Scheffer — Diretor Financeiro / Comercial Scheffer",
       "Kleverson Scheffer — Bom Futuro",
       "Rafael Bortoli — CEO Natter",
