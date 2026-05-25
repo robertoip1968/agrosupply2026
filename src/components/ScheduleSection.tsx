@@ -55,7 +55,7 @@ const day1: Item[] = [
   },
   {
     time: "15:00 – 15:30",
-    title: "PALESTRA — Engenharia Automotiva",
+    title: "PALESTRA — Tendências da mobilidade para o agro e o papel da tecnologia",
     type: "keynote",
     speakers: [
       "Everton Lopes — Mahle",
