@@ -107,7 +107,7 @@ const day2: Item[] = [
       'PAINEL — Debate Executivo: "Quem sustenta o crescimento do Agro? Os desafios invisíveis da cadeia de suprimentos brasileira"',
     type: "panel",
     speakers: [
-      "Mediador: Jules Ignácio",
+      "Mediador: Michel Muniz",
       "Gustavo Capelli — Bom Futuro",
       "Claudio Dorneles — SLC Agrícola",
       "Marcio Kopper — Grupo Bom Jesus",
