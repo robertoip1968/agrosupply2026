@@ -78,7 +78,7 @@ const day1: Item[] = [
     ],
   },
   {
-    time: "17:00 – 18:30",
+    time: "17:00 – 18:00",
     title: "Happy Hour + Networking Open Bar",
     type: "networking",
   },
