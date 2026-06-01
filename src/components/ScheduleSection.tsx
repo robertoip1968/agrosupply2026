@@ -124,6 +124,7 @@ const day2: Item[] = [
       "Mediador: Nahzir Okde — Bom Futuro",
       "Silvio Mota — Mercado Eletrônico",
       "Prof. Paulo Roberto — FDC",
+      "Gabriel Freitas - SLC Agrícola",
     ],
   },
   { time: "15:30 – 16:00", title: "Coffee + Networking", type: "break" },
